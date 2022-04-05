@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		13C533D6E2023A347AEA6327 /* Pods_Study_KingfisherTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D5BD91814F01427E4D5E4C0 /* Pods_Study_KingfisherTests.framework */; };
+		C420708727FC130800AAF009 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C420708627FC130800AAF009 /* GoogleService-Info.plist */; };
 		C443E3482702FBCC00069F86 /* images.swift in Sources */ = {isa = PBXBuildFile; fileRef = C443E3472702FBCC00069F86 /* images.swift */; };
 		C443E34A2702FF2800069F86 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C443E3492702FF2800069F86 /* CustomCollectionViewCell.swift */; };
 		C4BED0732702FAC400E376A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BED0722702FAC400E376A7 /* AppDelegate.swift */; };
@@ -50,6 +51,7 @@
 		63ECFF6E5EE9256B6859F074 /* Pods-Study_Kingfisher-Study_KingfisherUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Study_Kingfisher-Study_KingfisherUITests.debug.xcconfig"; path = "Target Support Files/Pods-Study_Kingfisher-Study_KingfisherUITests/Pods-Study_Kingfisher-Study_KingfisherUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		6DFA28083DBB372897415087 /* Pods-Study_KingfisherTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Study_KingfisherTests.release.xcconfig"; path = "Target Support Files/Pods-Study_KingfisherTests/Pods-Study_KingfisherTests.release.xcconfig"; sourceTree = "<group>"; };
 		A425E4F69C80110916D5D67C /* Pods-Study_Kingfisher.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Study_Kingfisher.debug.xcconfig"; path = "Target Support Files/Pods-Study_Kingfisher/Pods-Study_Kingfisher.debug.xcconfig"; sourceTree = "<group>"; };
+		C420708627FC130800AAF009 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		C443E3472702FBCC00069F86 /* images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = images.swift; sourceTree = "<group>"; };
 		C443E3492702FF2800069F86 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 		C4BED06F2702FAC400E376A7 /* Study_Kingfisher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Study_Kingfisher.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -151,6 +153,7 @@
 				C4BED0782702FAC400E376A7 /* Main.storyboard */,
 				C4BED07B2702FAC600E376A7 /* Assets.xcassets */,
 				C4BED07D2702FAC600E376A7 /* LaunchScreen.storyboard */,
+				C420708627FC130800AAF009 /* GoogleService-Info.plist */,
 				C4BED0802702FAC600E376A7 /* Info.plist */,
 			);
 			path = Study_Kingfisher;
@@ -283,6 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4BED07F2702FAC600E376A7 /* LaunchScreen.storyboard in Resources */,
+				C420708727FC130800AAF009 /* GoogleService-Info.plist in Resources */,
 				C4BED07C2702FAC600E376A7 /* Assets.xcassets in Resources */,
 				C4BED07A2702FAC400E376A7 /* Main.storyboard in Resources */,
 			);
